@@ -1,0 +1,29 @@
+#search {
+  width: 140px;
+  border-radius: 60px;
+  background-color: grey
+  margin-bottom: 10px;
+  font-family: sans-serif;
+  border-color: #4bb2b4;
+  color: #4bb2b4;
+  font-weight: bold;
+}
+
+#plus {
+  font-size: 24px;
+  width: 40px;
+  margin-top: 10px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #4bb2b4;
+  margin-bottom: 10px;
+  color: white;
+  border: #4bb2b4;
+}
+
+#createaccount {
+  width: 180px;
+  background-color: #2b78e4;
+  color: white;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
